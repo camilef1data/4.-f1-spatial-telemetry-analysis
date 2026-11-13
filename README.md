@@ -14,4 +14,3 @@ Using telemetry tracking, this dataset maps out the precise coordinates against 
 - `X`, `Y`: Spatial coordinates of the car on the track (in meters).
 - `Speed`: Vehicle speed at that exact point (km/h).
 - `Throttle` / `Brake`: Driver inputs mapped to geography.
-- 
